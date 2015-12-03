@@ -1,6 +1,7 @@
 class Money
 
-  class UnknownConversionRate < StandardError;
+  # Raises when conversion rates are not set
+  class UnknownConversionRate < StandardError; end
   
   @@conversion_rates = {}
 

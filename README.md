@@ -1,5 +1,7 @@
 # CurrencyHelper
 
+[![Build Status](https://travis-ci.org/Eunix/currency_helper.svg)](https://travis-ci.org/Eunix/currency_helper)
+
 A small ruby library to work with currencies
 
 ## Installation
